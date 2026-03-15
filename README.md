@@ -17,7 +17,7 @@ This project applies **Bayesian hierarchical modeling** to analyze dengue fever 
 **Academic Context:**
 - Course: Advanced Bayesian Data Analysis
 - Institution: TU Dortmund University
-- Date: March 2025
+- Date: March 2026
 - Authors: Usama Tauqeer Katib, Devensingh Rajput
 
 ## 🎯 Key Features
@@ -50,7 +50,7 @@ This project applies **Bayesian hierarchical modeling** to analyze dengue fever 
 ### Key Results
 
 - **Model Comparison**: Negative Binomial significantly outperforms Poisson
-- **ELPD Difference**: -911.4 (strong evidence for NegBin)
+- **ELPD Difference**: 99,327 (strong evidence for NegBin)
 - **Convergence**: R̂ ≈ 1.00 for all parameters
 - **Predictive Performance**: 95% credible intervals well-calibrated
 
